@@ -23,7 +23,7 @@ int main(){
     nobHill.fireEmployee(69, "Denis");
     nobHill.insertNewEmployeeBadge(21, "Jaren");
     nobHill.insertNewEmployeeBadge(420, "Cri");
-    nobHill.insertNewEmployeeBadge(999, "Lauri");
+    nobHill.insertNewEmployeeBadge(123, "Lauri");
     nobHill.insertNewEmployeeBadge(96, "Logan");
     nobHill.insertNewEmployeeBadge(6, "John");
     nobHill.insertNewEmployeeBadge(22, "Dominic");

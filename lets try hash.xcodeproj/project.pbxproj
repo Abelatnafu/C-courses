@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		573CDCD9250B5F54001639E3 /* lets try hash */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "lets try hash"; sourceTree = BUILT_PRODUCTS_DIR; };
 		573CDCDC250B5F54001639E3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		573CDCE3250B60C9001639E3 /* hash.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hash.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				573CDCDC250B5F54001639E3 /* main.cpp */,
+				573CDCE3250B60C9001639E3 /* hash.h */,
 			);
 			path = "lets try hash";
 			sourceTree = "<group>";

@@ -15,16 +15,16 @@
 using namespace std;
 
 int main(){
-    Hashtable nobHill(10);
+    Hashtable nobHill(13);
     nobHill.insertNewEmployeeBadge(3230, "Abel");
     nobHill.insertNewEmployeeBadge(17, "Jordan");
-    nobHill.insertNewEmployeeBadge(100, "Dan");
-    nobHill.insertNewEmployeeBadge(69, "Denis");
+    nobHill.insertNewEmployeeBadge(102, "Dan");
+    nobHill.insertNewEmployeeBadge(62, "Denis");
     nobHill.fireEmployee(69, "Denis");
     nobHill.insertNewEmployeeBadge(21, "Jaren");
     nobHill.insertNewEmployeeBadge(420, "Cri");
     nobHill.insertNewEmployeeBadge(123, "Lauri");
-    nobHill.insertNewEmployeeBadge(96, "Logan");
+    nobHill.insertNewEmployeeBadge(92, "Logan");
     nobHill.insertNewEmployeeBadge(6, "John");
     nobHill.insertNewEmployeeBadge(22, "Dominic");
     nobHill.showAllEmployees();

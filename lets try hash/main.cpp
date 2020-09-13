@@ -15,7 +15,7 @@
 using namespace std;
 
 int main(){
-    Hashtable nobHill(4);
+    Hashtable nobHill(10);
     nobHill.insertNewEmployeeBadge(3230, "Abel");
     nobHill.insertNewEmployeeBadge(17, "Jordan");
     nobHill.insertNewEmployeeBadge(100, "Dan");
